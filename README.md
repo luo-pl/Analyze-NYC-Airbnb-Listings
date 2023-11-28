@@ -1,6 +1,6 @@
 # Analyze NYC Airbnb listings
 
-![Alt Text](https://a.travel-assets.com/findyours-php/viewfinder/images/res40/476000/476709-Downtown-Boston.jpg)
+![Alt Text](https://costar.brightspotcdn.com/dims4/default/9ef74e2/2147483647/strip/true/crop/2048x1366+0+0/resize/2048x1366!/quality/100/?url=http%3A%2F%2Fcostar-brightspot.s3.us-east-1.amazonaws.com%2FGettyImages-1424386174.jpg)
 
 Introduction
 ------------
